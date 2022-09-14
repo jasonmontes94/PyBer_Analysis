@@ -5,13 +5,13 @@ We were tasked by V. Visualize to analyze and gather data of her ride-share comp
 
 ## Results
 
-![PyBer_fare_summary](/Resources/PyBer_fare_summary)
+![PyBer_fare_summary.png](/Resources/PyBer_fare_summary.png)
 
 At first glance, it is apparent that Urban cities had more total fares than Suburban and Rural cities. 
 
 Urban cities see more total riders and more total drivers, as well as the most total fares. However, individual drivers in Urban cities earned much less per fare than their Suburban and Rural counterparts as seen below.
 
-![PyBerDF](/Resources/PyBerDF)
+![PyBerDF.png](/Resources/PyBerDF.png)
 
 ## Summary
 
