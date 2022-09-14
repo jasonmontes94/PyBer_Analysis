@@ -5,7 +5,7 @@ We were tasked by V. Visualize to analyze and gather data of her ride-share comp
 
 ## Results
 
-![PyBer_fare_summary](/Resources/PyBer_Analysis)
+![PyBer_fare_summary](/Resources/PyBer_fare_summary)
 
 At first glance, it is apparent that Urban cities had more total fares than Suburban and Rural cities. 
 
